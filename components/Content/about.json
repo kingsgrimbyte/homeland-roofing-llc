@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Trusted Roofing Contractor in [location]",
+  "metaDescription": "Trusted roofing experts serving our community with quality repairs, replacements, and honest advice — local, experienced and dependable. Call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/homelandroofingllc_com/Roofing_Services_about_bannerImage_dtcDDfNw-.jpg",
+  "h1Banner": "Trusted Roofing Contractor in [location]",
+  "p1Banner": "Trusted roofing experts serving our community with quality repairs, replacements, and honest advice — local, experienced and dependable. Call [phone]",
+  "p2": "Founded by a hands-on contractor, Homeland Roofing LLC grew from a small local crew into a trusted roofing partner focused on honest estimates, durable workmanship, and prompt service. Our mission is to protect homes and businesses with high-quality materials, clear communication, and workmanship you can rely on. We stand behind every roof we install or repair with practical warranties and a commitment to treat every project like it’s in our own neighborhood in [location].",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/homelandroofingllc_com/Roofing_Services_about_h2Image_xpMcbXWdr.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver dependable roofing services built on craftsmanship, transparency, and safety—helping homeowners and businesses secure their properties with honest pricing and lasting results."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the go-to local roofing contractor known for pragmatic solutions, quality materials, and service that strengthens the communities we serve through reliable roofs and respectful relationships."
+    },
+    {
+      "title": "Our Story",
+      "description": "Started by a father-and-son team who learned the trade on job sites and in bad weather, our company grew by word-of-mouth: fair quotes, skilled crews, and follow-through. We source durable materials, train our techs to industry standards, and prioritize fixes that keep costs down over time."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide residential and commercial roofing across [location], including roof repairs, shingle and metal replacements, storm damage restoration, leak diagnostics, roof inspections, and gutter integration.",
+    "linkText": "Check our Roofing service locations here.",
+    "link": "/locations"
+  }
+}
